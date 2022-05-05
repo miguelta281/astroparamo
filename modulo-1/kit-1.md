@@ -4,7 +4,7 @@ description: >-
   propuestas en el reto científico 1.
 ---
 
-# Kit
+# Kit #1
 
 ## Materiales
 
