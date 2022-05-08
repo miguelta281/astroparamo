@@ -18,8 +18,8 @@ Esta actividad investiga el fenómeno del eclipse, tanto solar como lunar, tanto
 
 <mark style="color:red;">**Importante:**</mark>** ** evita mirar directamente al Sol.
 
-1. Toma la base de madera del paquete 2. La base está fragmentada en tres partes. Para armar la base, orienta las partes de modo que las marcas F1 y F2 queden derechas. Fija las uniones que tienen la misma marca introduciendo el tubo de plástico blanco que hay en el extremo de cada parte con el hueco disponible en la  otra parte.&#x20;
-2. En el paquete 2  también encontrarás las pelotas de icopor y los palillos. Clava un palillo en cada pelota, la pelota con diámetro de un centímetro representará la Luna y la de cuatro centímetros representará la Tierra. Ubícalas una en cada extremo procurando que sus centros queden a la misma altura. (Ver imagen)&#x20;
+1. Toma la base de madera del [paquete 2](../kit-2.md#paquete-2). La base está fragmentada en tres partes. Para armar la base, orienta las partes de modo que las marcas F1 y F2 queden derechas. Fija las uniones que tienen la misma marca introduciendo el tubo de plástico blanco que hay en el extremo de cada parte con el hueco disponible en la  otra parte.&#x20;
+2. En el [paquete 2](../kit-2.md#paquete-2)  también encontrarás las pelotas de icopor y los palillos. Clava un palillo en cada pelota, la pelota con diámetro de un centímetro representará la Luna y la de cuatro centímetros representará la Tierra. Ubícalas una en cada extremo procurando que sus centros queden a la misma altura. (Ver imagen)&#x20;
 
 ![](../../.gitbook/assets/GuiLab1\_2.png)
 
@@ -29,7 +29,7 @@ Esta actividad investiga el fenómeno del eclipse, tanto solar como lunar, tanto
 
 ![](../../.gitbook/assets/GuiLab1\_3.png)
 
-&#x20; 5\. Quita las pelotas de icopor y los palillos, desarma la base cuidadosamente y guarda todo en el paquete 2.
+&#x20; 5\. Quita las pelotas de icopor y los palillos, desarma la base cuidadosamente y guarda todo en el [paquete 2.](../kit-2.md#paquete-2)
 
 #### Lo que está sucediendo
 
@@ -38,8 +38,3 @@ Los eclipses solares son fenómenos que se producen cuando la Luna se interpone 
 ![Crédito: web.educastur](../../.gitbook/assets/GuiLab1\_4.png)
 
 Un eclipse lunar es el evento en el cual la Tierra se interpone entre el Sol y la Luna, generando un cono de sombra que oscurece la Luna. Para que esto suceda se requiere que los tres objetos celestes estén completamente alineados de tal modo que la Tierra bloquee los rayos del sol que llegarían a la Luna. (Ver figura anterior)
-
-####
-
-
-
