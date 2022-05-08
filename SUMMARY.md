@@ -16,5 +16,6 @@
   * [Kit #2](modulo-2-de-observacion-a-mundos-desconocidos/kit-2.md)
   * [GuiLab #2](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/README.md)
     * [Movimiento de traslación de la Tierra](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/movimiento-de-traslacion-de-la-tierra.md)
+    * [Fases de la Luna](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/fases-de-la-luna.md)
 * [Modulo 3: atmosferas planetarias](modulo-3-atmosferas-planetarias.md)
 * [Modulo 6: monitoreo del clima de mi comunidad](modulo-6-monitoreo-del-clima-de-mi-comunidad.md)

@@ -20,4 +20,4 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Exoplanetas
 
-#### <mark style="background-color:purple;">****</mark>[<mark style="background-color:purple;">**Descargar**</mark>](https://drive.google.com/file/d/13-owJyaXSyv2IALkgEsHWJpOY55jgG9d/view)<mark style="background-color:purple;">****</mark>
+Puede acceder a la GitLab completa acá [Descargar](https://drive.google.com/file/d/13-owJyaXSyv2IALkgEsHWJpOY55jgG9d/view)
