@@ -22,6 +22,10 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Movimiento relativo del sol
 
+{% content-ref url="movimiento-relativo-del-sol.md" %}
+[movimiento-relativo-del-sol.md](movimiento-relativo-del-sol.md)
+{% endcontent-ref %}
+
 #### Tamaño de los planetas del sistema solar
 
 #### Distancia al sol de los otros planetas del sistema solar
