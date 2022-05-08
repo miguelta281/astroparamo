@@ -10,7 +10,15 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Fases de la luna
 
+{% content-ref url="fases-de-la-luna.md" %}
+[fases-de-la-luna.md](fases-de-la-luna.md)
+{% endcontent-ref %}
+
 #### Eclipse solar y lunar
+
+{% content-ref url="eclipse-solar-y-lunar.md" %}
+[eclipse-solar-y-lunar.md](eclipse-solar-y-lunar.md)
+{% endcontent-ref %}
 
 #### Movimiento relativo del sol
 
