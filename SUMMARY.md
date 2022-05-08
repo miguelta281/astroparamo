@@ -14,5 +14,7 @@
     * [4. El sol en la bóveda celeste](modulo-2-de-observacion-a-mundos-desconocidos/reto-cientifico-2/4.-el-sol-en-la-boveda-celeste.md)
     * [5. Tamaños del sistema solar](modulo-2-de-observacion-a-mundos-desconocidos/reto-cientifico-2/5.-tamanos-del-sistema-solar.md)
   * [Kit #2](modulo-2-de-observacion-a-mundos-desconocidos/kit-2.md)
+  * [GuiLab #2](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/README.md)
+    * [Movimiento de traslación de la Tierra](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/movimiento-de-traslacion-de-la-tierra.md)
 * [Modulo 3: atmosferas planetarias](modulo-3-atmosferas-planetarias.md)
 * [Modulo 6: monitoreo del clima de mi comunidad](modulo-6-monitoreo-del-clima-de-mi-comunidad.md)
