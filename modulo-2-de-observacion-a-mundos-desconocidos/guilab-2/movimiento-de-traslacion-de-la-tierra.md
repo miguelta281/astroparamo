@@ -28,6 +28,6 @@ Estos materiales están disponibles en el [paquete 1](../kit-2.md#paquete-1) del
 
 La Tierra gira alrededor del Sol a lo largo de una trayectoria elíptica (órbita), la cual tarda 365 días con 6 horas. La Tierra no gira perpendicular al plano que contiene la órbita (plano orbital), sino que forma un ángulo de 23.5° respecto a la perpendicular (ver imagen), esto hace que la Tierra esté expuesta al Sol de diferentes maneras a lo largo de su órbita y genera las estaciones del año. Es decir, las estaciones dependen de la perpendicularidad con que los rayos del sol caen sobre la Tierra.
 
-![Crédito: "Movimientos de la tierra" https://www.abc.com.py/edicion-impresa/suplementos/escolar/movimientos-de-la-tierra-1251529.html](../../.gitbook/assets/GuiLab1\_2.png)
+![Crédito: "Movimientos de la tierra" https://www.abc.com.py/edicion-impresa/suplementos/escolar/movimientos-de-la-tierra-1251529.html](<../../.gitbook/assets/GuiLab1\_2 (1).png>)
 
 &#x20;
