@@ -2,6 +2,8 @@
 
 Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente forma:
 
+![Materiales Kit #2](../.gitbook/assets/Kit2.png)
+
 #### Paquete 1
 
 * Cuatro planetas azules con base
@@ -60,5 +62,3 @@ Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente for
 #### Paquete 12
 
 * Rociador de alcohol
-
-![Materiales Kit #2](../.gitbook/assets/Kit2.png)
