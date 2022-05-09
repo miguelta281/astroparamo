@@ -34,6 +34,10 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Distancia al sol de los otros planetas del sistema solar
 
+{% content-ref url="distancia-al-sol-de-los-planetas-del-sistema-solar.md" %}
+[distancia-al-sol-de-los-planetas-del-sistema-solar.md](distancia-al-sol-de-los-planetas-del-sistema-solar.md)
+{% endcontent-ref %}
+
 #### Exoplanetas
 
 Puede acceder a la GitLab completa acá [Descargar](https://drive.google.com/file/d/13-owJyaXSyv2IALkgEsHWJpOY55jgG9d/view)
