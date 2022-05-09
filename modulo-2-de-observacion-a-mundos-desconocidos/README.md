@@ -1,5 +1,7 @@
 # Modulo 2: de observación a mundos desconocidos
 
+![Distribución modulo 2](../.gitbook/assets/Mod2.jfif)
+
 Es este modulo se abordan los siguientes contenidos:
 
 * Introducción a la metodología
