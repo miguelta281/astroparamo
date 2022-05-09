@@ -28,6 +28,10 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Tamaño de los planetas del sistema solar
 
+{% content-ref url="tamano-de-los-planetas-del-sistema-solar.md" %}
+[tamano-de-los-planetas-del-sistema-solar.md](tamano-de-los-planetas-del-sistema-solar.md)
+{% endcontent-ref %}
+
 #### Distancia al sol de los otros planetas del sistema solar
 
 #### Exoplanetas

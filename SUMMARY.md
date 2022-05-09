@@ -20,5 +20,6 @@
     * [Eclipse solar y lunar](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/eclipse-solar-y-lunar.md)
     * [Movimiento relativo del Sol](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/movimiento-relativo-del-sol.md)
     * [Tamaño de los planetas del sistema solar](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/tamano-de-los-planetas-del-sistema-solar.md)
+    * [Distancia al Sol de los planetas del sistema solar](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/distancia-al-sol-de-los-planetas-del-sistema-solar.md)
 * [Modulo 3: atmosferas planetarias](modulo-3-atmosferas-planetarias.md)
 * [Modulo 6: monitoreo del clima de mi comunidad](modulo-6-monitoreo-del-clima-de-mi-comunidad.md)
