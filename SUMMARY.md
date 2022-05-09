@@ -22,6 +22,7 @@
     * [Tamaño de los planetas del sistema solar](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/tamano-de-los-planetas-del-sistema-solar.md)
     * [Distancia al Sol de los planetas del sistema solar](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/distancia-al-sol-de-los-planetas-del-sistema-solar.md)
     * [Exo-planetas](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/exo-planetas.md)
+  * [Material complementario](modulo-2-de-observacion-a-mundos-desconocidos/material-complementario.md)
 * [Modulo 3: atmosferas planetarias](modulo-3-atmosferas-planetarias.md)
 * [Modulo 6: monitoreo del clima de mi comunidad](modulo-6-monitoreo-del-clima-de-mi-comunidad.md)
   * [EVA: estación meteorológica](modulo-6-monitoreo-del-clima-de-mi-comunidad/eva-estacion-meteorologica.md)
