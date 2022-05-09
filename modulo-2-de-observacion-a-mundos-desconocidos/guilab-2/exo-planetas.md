@@ -4,6 +4,8 @@
 
 En esta actividad aprenderás a identificar la zona de habitabilidad de sistemas planetarios extra-solares y por lo tanto indagarás sobre la posibilidad de que exista vida en planetas de otros sistemas solares (exo-planetas).
 
+![Imagen de la Tierra y un exo-planeta parecido a la Tierra en tamaño y temperatura descubierto en 2020. Crédito: NASA](../../.gitbook/assets/GuiLab1\_7\_1.png)
+
 #### Lo que necesitarás
 
 * Una hoja de datos de un sistema planetario
@@ -34,5 +36,7 @@ En esta actividad aprenderás a identificar la zona de habitabilidad de sistemas
 #### Lo que está sucediendo
 
 Un exo-planeta, o un planeta extra-solar, es un planeta que orbita cualquier estrella que no sea el Sol, por tanto, uno que no estará en nuestro Sistema Solar. Se ha asumido la existencia de exoplanetas ya desde el siglo 16, pero sólo desde los últimos 25 años, los astrónomos han podido detectar estos planetas.
+
+![Crédito: NASA](../../.gitbook/assets/GuiLab1\_7\_2.png)
 
 Una de las cosas que los astrónomos están deseosos de encontrar son exoplanetas que puedan albergar vida. Como tal, la búsqueda por planetas extrasolares de tamaño de la Tierra, que orbitan su estrella en la "Zona habitable" es uno de los mayores objetivos. La zona habitable de un sistema planetario es donde pueda haber agua líquida, es decir, no tan cerca de la estrella anfitriona tal que el agua se evapore y no tan lejos como para que se congele.

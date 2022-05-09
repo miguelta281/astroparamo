@@ -40,4 +40,8 @@ Esta es la GuiLab correspondiente al segundo módulo, la cual esta distribuida e
 
 #### Exoplanetas
 
+{% content-ref url="exo-planetas.md" %}
+[exo-planetas.md](exo-planetas.md)
+{% endcontent-ref %}
+
 Puede acceder a la GitLab completa acá [Descargar](https://drive.google.com/file/d/13-owJyaXSyv2IALkgEsHWJpOY55jgG9d/view)
