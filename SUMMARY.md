@@ -24,4 +24,5 @@
     * [Exo-planetas](modulo-2-de-observacion-a-mundos-desconocidos/guilab-2/exo-planetas.md)
 * [Modulo 3: atmosferas planetarias](modulo-3-atmosferas-planetarias.md)
 * [Modulo 6: monitoreo del clima de mi comunidad](modulo-6-monitoreo-del-clima-de-mi-comunidad.md)
-  * [EVA](modulo-6-monitoreo-del-clima-de-mi-comunidad/eva.md)
+  * [EVA: estación meteorológica](modulo-6-monitoreo-del-clima-de-mi-comunidad/eva-estacion-meteorologica.md)
+  * [Instalación](modulo-6-monitoreo-del-clima-de-mi-comunidad/instalacion.md)
