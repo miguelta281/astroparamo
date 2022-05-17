@@ -12,13 +12,13 @@ Los elementos con los que cuenta este kit son:
 
 ### Brújula
 
-![](../.gitbook/assets/Brujula.png)
-
 Permite ubicarse en un sistema de referencia fijo, lo cual esencial al momento de hacer observación astronómica.&#x20;
+
+![Brújula](../.gitbook/assets/Brujula.png)
 
 ### Carta celeste
 
-![](../.gitbook/assets/CartaCeleste.png)
+![Carta celeste](../.gitbook/assets/CartaCeleste.png)
 
 Permite ubicar las estrellas en el firmamento con facilidad, para usarla adecuadamente:
 
@@ -30,9 +30,9 @@ Este es un dispositivo que parece simple pero es efectivo, te permitirá encontr
 
 **Construcción**
 
-ara construir esta regla, primero debemos pensar: “¿Cuál es la distancia (radio R) que necesito con el fin de obtener un artilugio que 1 grado sea equivalente a 1 cm?”. ¡Para responder esta pregunta, podemos usar las matemáticas! ¡Si usamos la relación entre la circunferencia y los grados, podemos encontrar una relación!
+Para construir esta regla, primero debemos pensar: “¿Cuál es la distancia (radio$$R$$ ) que necesito con el fin de obtener un artilugio de forma que 1 grado sea equivalente a 1 cm?”. ¡Para responder esta pregunta, podemos usar las matemáticas! ¡Si usamos la relación entre la circunferencia y los grados, podemos encontrar una relación!
 
-¡Así, podemos decir que 2piR cm que es el perímetro de un círculo es a 1cm, lo que 360 grados es a 1 grado! ¡Una regla de tres!
+¡Así, podemos decir que $$2\pi R$$ cm que es el perímetro de un círculo es a 1 cm, lo que 360 grados es a 1 grado! ¡Una regla de tres!
 
 ¡Si despejamos nos da un radio de 57 cm!
 
