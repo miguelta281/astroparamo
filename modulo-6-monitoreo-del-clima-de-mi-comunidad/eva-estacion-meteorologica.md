@@ -6,7 +6,7 @@ description: >-
 
 # EVA: estación meteorológica
 
-EVA es una estación de variables ambientales modular diseñada para apoyar proceso de medición climática y de calidad de aire con una alta confiabilidad. Esta estación fue diseñada por [MakeSens](https://makesens.co).
+EVA es una estación de variables ambientales modular diseñada para apoyar proceso de medición climática y de calidad de aire con una alta confiabilidad. Esta estación fue diseñada por [MakeSens](https://makesens.co/).
 
 {% embed url="https://youtu.be/XsCTu902_Ls" %}
 Presentación EVA

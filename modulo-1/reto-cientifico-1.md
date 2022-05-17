@@ -6,7 +6,7 @@ El cielo nocturno tiene unas características que a veces pasaos desapercibidas.
 
 ### Sigue los siguientes pasos&#x20;
 
-**Paso 1:** Ubica en el cielo un conjunto de estrellas e imagina una forma con ellas (Mínimo 4). Aparta una libreta y organízala de la siguiente manera:&#x20;
+**Paso 1:** ubica en el cielo un conjunto de estrellas e imagina una forma con ellas (Mínimo 4). Aparta una libreta y organízala de la siguiente manera:&#x20;
 
 **Paso 2:** Analiza tus observaciones y reporta en tu cuaderno:
 
