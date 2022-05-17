@@ -36,13 +36,40 @@ Para construir esta regla, primero debemos pensar: “¿Cuál es la distancia (r
 
 ¡Si despejamos nos da un radio de 57 cm!
 
-Para construir el instrumento cogemos una regla, donde fijamos una cuerda de 57 cm de longitud. Es muy importante que la cuerda no se estire. Cómo se usa: Miramos con el final de la cuerda casi tocando nuestro ojo “en la mejilla, debajo del ojo”
+Ahora vamos a ensamblar nuestra regla para medir ángulos, para ello vamos a fijar la cuerda de 57 cm, en el centro de nuestra cuerda como se muestra en la figura.&#x20;
+
+Puedes ver el paso a paso de su construcción [aquí](https://youtu.be/IqnOZ\_pfl\_A).
+
+#### Cómo se usa
+
+Miramos con el final de la cuerda casi tocando nuestro ojo “en la mejilla, debajo del ojo”
 
 ### Cuadrante
-
-![](../.gitbook/assets/Cuadrante.png)
 
 Este antiguo instrumento esta conformado por una placa en forma de cuarto de circunferencia (razón por la cual recibe el nombre de cuadrante), una plomada y mirilla. La placa tiene grabados los ángulos de 0 – 90°, del vértice de la placa cuelga la plomada y encima de donde está anclada la plomada se ubica la mirilla, además se puede agregar algún mecanismo para facilitar su agarre.&#x20;
 
 El cuadrante ha sido principalmente en la astronomía y la navegación; el cuadrante astronómico permite medir la altura de los astros, tal vez su aparición mas notoria fue en siglo XVI por el astrónomo Danes Tycho Brahe, quien construyo algos con incluso dos metros de radio los cuales permitieron obtener mediciones más precisas, mismas que luego ayudaron a Keples a determinar la forma elíptica que tienen las órbitas de los planetas; mientras que la importancia del cuadrante náutico radica en que permite determinar la latitud.
+
+Para este proyecto vamos a usar un cuadrante simplificado, el **cuadrante pistola.**
+
+#### **Construcción**
+
+1. Usando una pieza rectangular de cartón duro de dimensiones (20 x 12 cm). Recorta un área rectangular como la de la _figura 1,_ esto con el fin de colocar una mano ahí.&#x20;
+2. Toma uno de los pitillos y pégalo como se indica en la _figura 2._
+3. Toma el cuadrante de papel (descarga), y pégalo como se indica en la _figura 3._ De forma que una de las argollas esté sobre la posición 0°.
+4. Ata una cuerda en la parte de arriba (donde esta el asterisco en la _figura 4_), en la parte libre de la cuerda fija un pequeño peso.
+
+Finalmente el resultado será muy similar a esté.&#x20;
+
+
+
+Puedes ver el paso a paso de su construcción [aquí](https://youtu.be/Vxtwl\_XeFog).
+
+
+
+#### Cómo se usa
+
+Cuando se ve el objeto a través de la mira (pitillo), la cuerda indica la posición angular referida a los 0° del horizonte. _Figura 5_
+
+####
 
