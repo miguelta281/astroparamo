@@ -54,10 +54,17 @@ Para este proyecto vamos a usar un cuadrante simplificado, el **cuadrante pistol
 
 #### **Construcción**
 
-1. Usando una pieza rectangular de cartón duro de dimensiones (20 x 12 cm). Recorta un área rectangular como la de la _figura 1,_ esto con el fin de colocar una mano ahí.&#x20;
-2. Toma uno de los pitillos y pégalo como se indica en la _figura 2._
-3. Toma el cuadrante de papel (descarga), y pégalo como se indica en la _figura 3._ De forma que una de las argollas esté sobre la posición 0°.
-4. Ata una cuerda en la parte de arriba (donde esta el asterisco en la _figura 4_), en la parte libre de la cuerda fija un pequeño peso.
+**Paso 1:** Usando una pieza rectangular de cartón duro de dimensiones (20 x 12 cm). Recorta un área rectangular como la de la _figura 1,_ esto con el fin de colocar una mano ahí.&#x20;
+
+![Figura 1: Construcción del cuadrante.](../.gitbook/assets/Mod1\_Fig1\_Cuadrante.png)
+
+**Paso 2:** Toma uno de los pitillos y pégalo como se indica en la _figura 2._
+
+![Figura 2: paso dos en la construcción del cuadrante.](../.gitbook/assets/Mod1\_Fig2\_Cuadrante.png)
+
+**Paso 3:** Toma el cuadrante de papel (descarga), y pégalo como se indica en la _figura 3._ De forma que una de las argollas esté sobre la posición 0°.
+
+**Paso 4:** Ata una cuerda en la parte de arriba (donde esta el asterisco en la _figura 4_), en la parte libre de la cuerda fija un pequeño peso.
 
 Finalmente el resultado será muy similar a esté.&#x20;
 
