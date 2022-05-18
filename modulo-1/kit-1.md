@@ -68,7 +68,7 @@ Para este proyecto vamos a usar un cuadrante simplificado, el **cuadrante pistol
 
 **Paso 4:** Ata una cuerda en la parte de arriba (donde esta el asterisco en la _figura 4_), en la parte libre de la cuerda fija un pequeño peso.
 
-![Figura 3: Paso cuatro en la construcción del cuadrante.](../.gitbook/assets/Mod1\_Fig4\_Cuadrante.png)
+![Figura 4: Paso cuatro en la construcción del cuadrante.](../.gitbook/assets/Mod1\_Fig4\_Cuadrante.png)
 
 Finalmente el resultado será muy similar a esté.&#x20;
 
