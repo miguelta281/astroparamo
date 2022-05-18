@@ -82,5 +82,7 @@ Puedes ver el paso a paso de su construcción [aquí](https://youtu.be/Vxtwl\_Xe
 
 Cuando se ve el objeto a través de la mira (pitillo), la cuerda indica la posición angular referida a los 0° del horizonte. _Figura 5_
 
+![Figura 5: uso del cuadrante.](../.gitbook/assets/Mod1\_Fig5\_Cuadrante.png)
+
 ####
 
