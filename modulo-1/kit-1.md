@@ -14,7 +14,7 @@ Los elementos con los que cuenta este kit son:
 
 Permite ubicarse en un sistema de referencia fijo, lo cual esencial al momento de hacer observación astronómica.&#x20;
 
-![Brújula](../.gitbook/assets/Brujula.png)
+![Brújula](../.gitbook/assets/Brujula.jpeg)
 
 ### Carta celeste
 
@@ -72,11 +72,9 @@ Para este proyecto vamos a usar un cuadrante simplificado, el **cuadrante pistol
 
 Finalmente el resultado será muy similar a esté.&#x20;
 
-
+![Cuadrante](../.gitbook/assets/cuadrante.jpeg)
 
 Puedes ver el paso a paso de su construcción [aquí](https://youtu.be/Vxtwl\_XeFog).
-
-
 
 #### Cómo se usa
 
