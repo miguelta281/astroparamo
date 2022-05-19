@@ -40,6 +40,8 @@ Para construir esta regla, primero debemos pensar: “¿Cuál es la distancia (r
 
 Ahora vamos a ensamblar nuestra regla para medir ángulos, para ello vamos a fijar la cuerda de 57 cm, en el centro de nuestra cuerda como se muestra en la figura.&#x20;
 
+![Regla para medir ángulos](../.gitbook/assets/reglaangulos.png)
+
 Puedes ver el paso a paso de su construcción [aquí](https://youtu.be/IqnOZ\_pfl\_A).
 
 #### Cómo se usa
