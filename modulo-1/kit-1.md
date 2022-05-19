@@ -34,6 +34,8 @@ Para construir esta regla, primero debemos pensar: “¿Cuál es la distancia (r
 
 ¡Así, podemos decir que $$2\pi R$$ cm que es el perímetro de un círculo es a 1 cm, lo que 360 grados es a 1 grado! ¡Una regla de tres!
 
+![Relación ángulo - distancia.](../.gitbook/assets/circ.png)
+
 ¡Si despejamos nos da un radio de 57 cm!
 
 Ahora vamos a ensamblar nuestra regla para medir ángulos, para ello vamos a fijar la cuerda de 57 cm, en el centro de nuestra cuerda como se muestra en la figura.&#x20;
