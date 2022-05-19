@@ -20,7 +20,7 @@ Permite ubicarse en un sistema de referencia fijo, lo cual esencial al momento d
 
 ![Carta celeste lado norte](../.gitbook/assets/cartaCeleste1.jpeg) ![Carta celeste lado sur](../.gitbook/assets/cartaCeleste2.jpeg)
 
-Permite ubicar las estrellas en el firmamento con facilidad, para usarla adecuadamente revisa este video [aquí](https://www.youtube.com/watch?v=ONYaYA\_R\_48).
+Permite ubicar las estrellas en el firmamento con facilidad, para usarla adecuadamente revisa este video haciendo clic [aquí](https://www.youtube.com/watch?v=ONYaYA\_R\_48).
 
 Una alternativa si se cuenta con un smartphone es usar alguna de las siguientes aplicaciones: [Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid\&hl=es\_CO\&gl=US) o [Stellarium](https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium\_free\&hl=es\_CO\&gl=US), las cuales muestran una simulación muy precisa del cielo, en donde se pueden identificar diferentes cuerpos celestes. &#x20;
 
