@@ -8,6 +8,15 @@ Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente for
 * Bombillo amarillo&#x20;
 * Base de bombillo
 
+#### **Actividad #2**
+
+* Linterna
+* Plantilla de máscara de la Luna
+* Plantilla de máscara de la Tierra
+* Dos trozos de cuerda
+* Tijeras
+* Linterna
+
 #### Paquete 2
 
 * Base modelo eclipse fragmentada (4)
