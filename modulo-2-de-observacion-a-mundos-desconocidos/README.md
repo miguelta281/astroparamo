@@ -1,6 +1,6 @@
 # Modulo 2: de observación a mundos desconocidos
 
-![Distribución modulo 2](../.gitbook/assets/Mod2.jfif)
+![Distribución módulo 1](../.gitbook/assets/M2.png)
 
 Es este modulo se abordan los siguientes contenidos:
 
