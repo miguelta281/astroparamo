@@ -9,20 +9,21 @@ Usando un simple modelo del movimiento de traslación de la tierra entenderás p
 #### Lo que necesitarás
 
 * Cuatro pelotas azules con base
-* Bombillo amarillo con base
+* Bombillo amarillo
+* Base bombillo amarillo
 
-Estos materiales están disponibles en el [paquete 1](../kit-2.md#paquete-1) del [Kit #2](../kit-2.md)
+Estos materiales están disponibles en la [actividad #1](../kit-2.md#actividad-1) del [Kit #2](../kit-2.md)
 
 #### Qué hacer
 
-1. Toma las cuatro pelotas azules con sus bases del [paquete 1](../kit-2.md#paquete-1), estas representarán la tierra en distintos momentos del año (distintos puntos de su órbita)
-2. Toma la caja del bombillo y la base negra del [paquete 1](../kit-2.md#paquete-1), saca el bombillo de la cara y enróscalo en la roseta que se ubica en la parte superior de la base
+1. Toma las cuatro pelotas azules con sus bases del [actividad #1](../kit-2.md#actividad-1), estas representarán la tierra en distintos momentos del año (distintos puntos de su órbita)
+2. Toma la caja del bombillo y la base negra del [actividad #1](../kit-2.md#actividad-1), saca el bombillo de la cara y enróscalo en la roseta que se ubica en la parte superior de la base
 3. En un lugar oscuro, sitúa las cuatro esferas en su base formando una cruz, cada una d en frente de la otra, con el bombillo en el centro representando el sol, como se ve en la figura.
 
 ![](../../.gitbook/assets/GuiLab1\_1.png)
 
 1. Conecta el bombillo, préndelo con el switch y observa las diferencias en la iluminación de la Tierra en cada una de las posiciones.&#x20;
-2. Apaga el bombillo con el switch, desconéctalo y espera que el bombillo se enfríe. Desenrosca el bombillo y guarda la base y las pelotas en el [paquete 1](../kit-2.md#paquete-1).
+2. Apaga el bombillo con el switch, desconéctalo y espera que el bombillo se enfríe. Desenrosca el bombillo y guarda la base y las pelotas.
 
 #### Lo que está sucediendo
 

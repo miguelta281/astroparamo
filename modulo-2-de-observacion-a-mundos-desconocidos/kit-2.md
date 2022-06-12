@@ -2,11 +2,11 @@
 
 Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente forma:
 
-#### Paquete 1
+#### **Actividad #1**
 
 * Cuatro planetas azules con base
+* Bombillo amarillo&#x20;
 * Base de bombillo
-* Bombillo amarillo
 
 #### Paquete 2
 
