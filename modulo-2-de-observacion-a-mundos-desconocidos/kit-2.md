@@ -17,6 +17,13 @@ Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente for
 * Tijeras
 * Linterna
 
+#### Actividad #3
+
+* Base de madera de 1.2 metros de largo
+* Una pelota de un centímetro de diámetro
+* Una pelota de cuatro centímetros de diámetro
+* Dos palillos
+
 #### Paquete 2
 
 * Base modelo eclipse fragmentada (4)
