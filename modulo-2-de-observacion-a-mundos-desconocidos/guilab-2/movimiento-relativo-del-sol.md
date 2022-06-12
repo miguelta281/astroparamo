@@ -16,7 +16,7 @@ No es fácil explicar el movimiento del sol que observamos desde la Tierra. En e
 
 _Construyendo el simulador_&#x20;
 
-1. Toma una copia del simulador del [paquete 8](../kit-2.md#paquete-8), y toma las tijeras y el pegante del [paquete 10](../kit-2.md#paquete-10).
+1. Toma una copia del simulador, las tijeras y el pegante.
 2. Corta ambas piezas de la fotocopia a lo largo de la línea continua.&#x20;
 3. Recorta el área negra de la pieza principal y retírala.
 4. Dobla la pieza principal (Fig. 1 a la izquierda) a lo largo de la línea punteada recta. Es bueno doblar la pieza en varias ocasiones para un uso más fácil del simulador.
@@ -32,7 +32,7 @@ _Inclinación de la trayectoria del Sol sobre el horizonte_
 
 Usando el simulador es muy fácil observar que el ángulo de la trayectoria del Sol sobre el horizonte depende de la latitud. Generalmente si el observador vive en una ciudad de latitud L, la inclinación de la trayectoria del Sol en el horizonte es 90-L cada día. Si el observador vive en el ecuador (latitud 0°) este ángulo es 90°.
 
-&#x20; 10\. Guarda las tijeras y el pegante en el [paquete 10](../kit-2.md#paquete-10), conserva el simulador.&#x20;
+&#x20; 10\. Guarda las tijeras y el pegante, conserva el simulador.&#x20;
 
 #### Lo que está sucediendo
 

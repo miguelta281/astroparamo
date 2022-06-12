@@ -24,6 +24,12 @@ Este kit contiene los materiales distribuidos en 12 paquetes de la siguiente for
 * Una pelota de cuatro centímetros de diámetro
 * Dos palillos
 
+#### Actividad #4
+
+* Copia simulador solar
+* Tijeras
+* Pegante
+
 #### Paquete 2
 
 * Base modelo eclipse fragmentada (4)
